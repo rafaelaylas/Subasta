@@ -18,4 +18,11 @@
 
     <string name="access_login_register" >Acceder o Registrarse</string>
 
+
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Registrarse</string>
+    <string name="Email">Email</string>
+
 </resources>
